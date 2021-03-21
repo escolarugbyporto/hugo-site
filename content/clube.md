@@ -4,6 +4,6 @@ draft = true
 featured_image = ""
 title = "Clube"
 [menu.main]
-weight = 3
+weight = 2
 
 +++
