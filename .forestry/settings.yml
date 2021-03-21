@@ -5,6 +5,21 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/resultados
+  label: Resultados
+  create: documents
+  match: "*.md"
+- type: directory
+  path: content/equipas
+  label: Equipas
+  create: documents
+  match: "**/**.md"
+- type: directory
+  path: content/merchandising
+  label: Merchandising
+  create: documents
+  match: "*.md"
+- type: directory
   path: content
   label: Pages
   create: all
