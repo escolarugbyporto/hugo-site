@@ -13,6 +13,5 @@ fields:
   label: description
 pages:
 - content/_index.md
-- content/about/_index.md
 - content/clube.md
 - content/sponsors.md
