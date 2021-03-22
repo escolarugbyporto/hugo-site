@@ -14,21 +14,25 @@ sections:
   label: Resultados
   create: documents
   match: "*.md"
+  exclude: _index.md
 - type: directory
   path: content/equipas
   label: Equipas
   create: documents
   match: "**/**.md"
+  exclude: _index.md
 - type: directory
   path: content/merchandising
   label: Merchandising
   create: documents
   match: "*.md"
+  exclude: _index.md
 - type: directory
   path: content/post
   label: Post
   create: documents
   match: "*.md"
+  exclude: _index.md
   templates:
   - post
 upload_dir: static/images
