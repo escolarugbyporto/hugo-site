@@ -2,7 +2,9 @@
 baseURL: http://escolarugbyporto.pt/draft
 languageCode: pt-PT
 title: Escola Rugby do Porto
-theme: "ananke"
+module:
+  imports:
+  - path: github.com/escolarugbyporto/gohugo-theme-ananke
 DefaultContentLanguage: en
 SectionPagesMenu: main
 Paginate: 3
