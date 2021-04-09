@@ -3,7 +3,7 @@ name: Publish Site
 on:
 	push:
 		branches:
-			- deploy # Branch to deploy
+			- master # Branch to deploy
 			
 jobs:
 	deploy:
