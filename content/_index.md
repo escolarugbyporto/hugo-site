@@ -1,8 +1,8 @@
 ---
 title: Escola de Rugby do Porto
 featured_image: "/images/porto-bridge.png"
-description: "<Inserir Descrição Sumária de Quem é a Escola>"
-draft: true
+description: Venha conhecer o Rugby ou reencontrar-se com o mesmo!  Dos sub-8 aos
+  seniores todos são bem vindos!
 
 ---
 Bem-vindo!
