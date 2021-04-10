@@ -29,5 +29,5 @@ jobs:
         ftp-username: ${{ secrets.PUBLISH_FTP_USERNAME }}
         ftp-password: ${{ secrets.PUBLISH_FTP_PASSWORD }}
         local-dir: public/
-        server-dir: public/www
+        server-dir: public/www/
         log-level: standard
