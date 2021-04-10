@@ -1,9 +1,8 @@
 name: Publish Site
 
 on:
-  push:
-    branches:
-    - master # Branch to deploy
+  schedule:
+  	- cron: '» 23 » » »'
 
 jobs:
   deploy:
